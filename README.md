@@ -1,4 +1,4 @@
-# atividade de conclusao
+# Atividade de conclusao de curso - IFTO
 
 # Modell
 Todas as funções do banco de dados são armazenadas aqui. Cada tabela tem seu próprio objeto dentro da pasta do modelo.
